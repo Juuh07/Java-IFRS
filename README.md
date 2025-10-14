@@ -1,4 +1,4 @@
- # 📝 Exercícios - Introdução à Programação
+# 📝 Exercícios - Introdução à Programação
 
 ## 1️⃣ Subtração de dois números ➖
 
