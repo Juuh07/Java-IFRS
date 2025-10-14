@@ -9,69 +9,68 @@
 
 ## 📚 Sobre
 
-Este repositório contém exercícios introdutórios de programação em **Java**, abordando conceitos fundamentais como variáveis, operadores, entrada e saída de dados e cálculos simples.  
-Cada exercício foi desenvolvido para reforçar a lógica e a prática com a linguagem.  
+Este repositório contém exercícios introdutórios de programação em **Java**, abordando conceitos fundamentais como variáveis, operadores, entrada e saída de dados e cálculos simples. Cada exercício foi desenvolvido para reforçar a lógica e a prática com a linguagem.  
 
 ---
 
-## 🧩 Exercícios
+## 📝 Exercícios
 
-### 1️⃣ Subtração de dois números ➖  
+### 1. Subtração de dois números ➖  
 Faça um programa que receba dois números, calcule e mostre a subtração do primeiro número pelo segundo.  
-🔗 [Ver código](#) *(adicione o link do arquivo .java depois)*
+🔗 [Ver código](#)
 
 ---
 
-### 2️⃣ Divisão de dois números ➗  
+### 2. Divisão de dois números ➗  
 Faça um programa que receba dois números, calcule e mostre a divisão do primeiro pelo segundo.  
 Sabe-se que o segundo número não pode ser zero.  
 🔗 [Ver código](#)
 
 ---
 
-### 3️⃣ Média de três notas 📊  
+### 3. Média de três notas 📊  
 Faça um programa que receba três notas de um estudante, calcule e mostre a média aritmética.  
 🔗 [Ver código](#)
 
 ---
 
-### 4️⃣ Desconto em produto 💰  
+### 4. Desconto em produto 💰  
 Faça um programa que receba o preço de um produto, calcule e mostre o novo preço, sabendo que sofreu desconto de 10%.  
 🔗 [Ver código](#)
 
 ---
 
-### 5️⃣ Salário com gratificação e imposto 💵  
+### 5. Salário com gratificação e imposto 💵  
 Calcule o salário a receber com gratificação de 5% e imposto de 7% sobre o salário base.  
 🔗 [Ver código](#)
 
 ---
 
-### 6️⃣ Comissão sobre vendas 🏷️  
+### 6. Comissão sobre vendas 🏷️  
 Um funcionário recebe salário fixo + 4% de comissão sobre vendas.  
 🔗 [Ver código](#)
 
 ---
 
-### 7️⃣ Média ponderada ⚖️  
+### 7. Média ponderada ⚖️  
 Receba três notas e seus respectivos pesos e calcule a média ponderada.  
 🔗 [Ver código](#)
 
 ---
 
-### 8️⃣ Área de um triângulo 📐  
+### 8. Área de um triângulo 📐  
 Calcule e mostre a área de um triângulo, sabendo que `Área = (base x altura) / 2`.  
 🔗 [Ver código](#)
 
 ---
 
-### 9️⃣ Área de um quadrado 🟧  
+### 9. Área de um quadrado 🟧  
 Calcule e mostre a área de um quadrado.  
 🔗 [Ver código](#)
 
 ---
 
-### 🔟 Conversão de medidas 📏  
+### 10. Conversão de medidas 📏  
 Sabendo que:
 - 1 pé = 12 polegadas  
 - 1 jarda = 3 pés  
@@ -86,7 +85,7 @@ Receba uma medida em pés e converta para:
 
 ---
 
-### 1️⃣1️⃣ Idade em anos, meses, semanas e dias 🗓️  
+### 11. Idade em anos, meses, semanas e dias 🗓️  
 Receba o ano de nascimento e o ano atual, e mostre a idade:
 - em anos  
 - em meses  
@@ -97,7 +96,7 @@ Receba o ano de nascimento e o ano atual, e mostre a idade:
 
 ---
 
-### 1️⃣2️⃣ Preço final de um carro 🚗  
+### 12. Preço final de um carro 🚗  
 Receba o preço de fábrica, percentual de lucro e impostos, e mostre:
 - lucro do distribuidor  
 - valor dos impostos  
@@ -107,7 +106,7 @@ Receba o preço de fábrica, percentual de lucro e impostos, e mostre:
 
 ---
 
-### 1️⃣3️⃣ Salário com horas trabalhadas 🕒  
+### 13. Salário com horas trabalhadas 🕒  
 Calcule o salário com base nas regras:
 - valor da hora = 1/10 do salário mínimo  
 - salário bruto = horas × valor da hora  
@@ -118,7 +117,7 @@ Calcule o salário com base nas regras:
 
 ---
 
-### 1️⃣4️⃣ Consumo de energia ⚡  
+### 14. Consumo de energia ⚡  
 Sabendo que 1 kW custa 1/5 do salário mínimo, calcule:
 - valor de cada kW  
 - valor total a pagar  
@@ -128,7 +127,7 @@ Sabendo que 1 kW custa 1/5 do salário mínimo, calcule:
 
 ---
 
-### 1️⃣5️⃣ Conversão de Celsius para Fahrenheit 🌡️  
+### 15. Conversão de Celsius para Fahrenheit 🌡️  
 Receba uma temperatura em Celsius e mostre em Fahrenheit usando a fórmula:  
 **F = (C × 9 / 5) + 32**  
 🔗 [Ver código](#)
@@ -143,8 +142,4 @@ Receba uma temperatura em Celsius e mostre em Fahrenheit usando a fórmula:
 
 ---
 
-## ☕ Autor
-Feito com 💻 e café por **[Julia Santos Martins](https://github.com/Juuh07)**  
-
----
-
+Feito com 💻 e café por **[Júlia Martins](https://github.com/Juuh07)**  
