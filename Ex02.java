@@ -1,5 +1,3 @@
-//Faça um programa que receba dois números, calcule e mostre a divisão do primeiro pelo segundo. 
-
 import java.util.Scanner;
 
 public class Ex02 {

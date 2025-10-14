@@ -1,5 +1,3 @@
-//Faça um programa que calcule e mostre a área de um quadrado.
-
 import java.util.Scanner;
 
 public class Ex09 {

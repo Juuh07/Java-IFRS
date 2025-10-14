@@ -1,7 +1,3 @@
-//Faça um programa que calcule e mostre a área de um triângulo. Sabe
-//se que: Área = (base x altura) / 2. A base e altura devem ser informadas
-//pelo usuário.
-
 import java.util.Scanner;
 
 public class Ex08 {

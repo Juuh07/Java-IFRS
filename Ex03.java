@@ -1,6 +1,3 @@
-//Faça um programa que receba três notas de um estudante, 
-//calcule e mostre a média aritmética entre elas
-
 import java.util.Scanner;
 
 public class Ex03 {

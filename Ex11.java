@@ -1,6 +1,3 @@
-//Faça um programa que receba o ano de nascimento de uma pessoa e o
-//ano atual, calcule e mostre a idade dessa pessoa em anos, meses, dias e semanas
-
 import java.time.Year;
 import java.util.Scanner;
 

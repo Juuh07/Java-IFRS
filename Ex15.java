@@ -1,6 +1,3 @@
-//Faça um programa que receba uma temperatura em Celsius, 
-//calcule e mostre essa temperatura em Fahrenheit.
-
 import java.util.Scanner;
 
 public class Ex15 {

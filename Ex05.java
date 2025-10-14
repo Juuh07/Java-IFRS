@@ -1,7 +1,3 @@
-//Faça um programa que receba o salário base de um funcionário, calcule e mostre o salário a receber, 
-//sabendo-se que o funcionário tem ratificação de 5% sobre o salário base (que será acrescentado ao salário) 
-//e paga imposto de 7% sobre este salário (o que será descontado do salário).
-
 import java.util.Scanner;
 
 public class Ex05 {

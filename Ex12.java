@@ -1,9 +1,3 @@
-//Faça um programa que receba o preço de fábrica de um veículo, o percentual de lucro do distribuidor 
-//e o percentual de impostos, calcule e mostre:
-//a. o valor correspondente ao lucro do distribuidor;
-//b. o valor correspondente aos impostos;
-//c. o preço final do produto.
-
 import java.util.Scanner;
 
 public class Ex12 {
