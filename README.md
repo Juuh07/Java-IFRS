@@ -5,6 +5,7 @@
 Faça um programa que receba dois números, calcule e mostre a 
 subtração do primeiro número pelo segundo.
 
+[Solução](https://raw.githubusercontent.com/Juuh07/Java-IFRS/refs/heads/main/Ex01.java)
 
 ## 2️⃣ Divisão de dois números ➗
 
