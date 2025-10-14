@@ -9,7 +9,7 @@
 
 ## 📚 Sobre
 
-Este repositório contém exercícios introdutórios de programação em **Java**, abordando conceitos fundamentais como variáveis, operadores, entrada e saída de dados e cálculos simples. Cada exercício foi desenvolvido para reforçar a lógica e a prática com a linguagem.  
+Este repositório contém exercícios introdutórios de programação em **Java**, abordando conceitos fundamentais como variáveis, operadores, entrada e saída de dados e cálculos simples.
 
 ---
 
@@ -17,56 +17,56 @@ Este repositório contém exercícios introdutórios de programação em **Java*
 
 ### 1. Subtração de dois números ➖  
 Faça um programa que receba dois números, calcule e mostre a subtração do primeiro número pelo segundo.  
-🔗 [Ver código](#)
+🔗 [Ver código](https://raw.githubusercontent.com/Juuh07/Java-IFRS/refs/heads/main/Ex01.java)
 
 ---
 
 ### 2. Divisão de dois números ➗  
 Faça um programa que receba dois números, calcule e mostre a divisão do primeiro pelo segundo.  
 Sabe-se que o segundo número não pode ser zero.  
-🔗 [Ver código](#)
+🔗 [Ver código](https://raw.githubusercontent.com/Juuh07/Java-IFRS/refs/heads/main/Ex02.java)
 
 ---
 
 ### 3. Média de três notas 📊  
 Faça um programa que receba três notas de um estudante, calcule e mostre a média aritmética.  
-🔗 [Ver código](#)
+🔗 [Ver código](https://raw.githubusercontent.com/Juuh07/Java-IFRS/refs/heads/main/Ex03.java)
 
 ---
 
 ### 4. Desconto em produto 💰  
 Faça um programa que receba o preço de um produto, calcule e mostre o novo preço, sabendo que sofreu desconto de 10%.  
-🔗 [Ver código](#)
+🔗 [Ver código](https://github.com/Juuh07/Java-IFRS/raw/refs/heads/main/Ex04.java)
 
 ---
 
 ### 5. Salário com gratificação e imposto 💵  
 Calcule o salário a receber com gratificação de 5% e imposto de 7% sobre o salário base.  
-🔗 [Ver código](#)
+🔗 [Ver código](https://github.com/Juuh07/Java-IFRS/raw/refs/heads/main/Ex05.java)
 
 ---
 
 ### 6. Comissão sobre vendas 🏷️  
 Um funcionário recebe salário fixo + 4% de comissão sobre vendas.  
-🔗 [Ver código](#)
+🔗 [Ver código](https://github.com/Juuh07/Java-IFRS/raw/refs/heads/main/Ex06.java)
 
 ---
 
 ### 7. Média ponderada ⚖️  
 Receba três notas e seus respectivos pesos e calcule a média ponderada.  
-🔗 [Ver código](#)
+🔗 [Ver código](https://github.com/Juuh07/Java-IFRS/raw/refs/heads/main/Ex07.java)
 
 ---
 
 ### 8. Área de um triângulo 📐  
-Calcule e mostre a área de um triângulo, sabendo que `Área = (base x altura) / 2`.  
-🔗 [Ver código](#)
+Calcule e mostre a área de um triângulo, sabendo que  Área = (base x altura) / 2.  
+🔗 [Ver código](https://github.com/Juuh07/Java-IFRS/raw/refs/heads/main/Ex08.java)
 
 ---
 
 ### 9. Área de um quadrado 🟧  
 Calcule e mostre a área de um quadrado.  
-🔗 [Ver código](#)
+🔗 [Ver código](https://github.com/Juuh07/Java-IFRS/raw/refs/heads/main/Ex09.java)
 
 ---
 
@@ -81,7 +81,7 @@ Receba uma medida em pés e converta para:
 - jardas  
 - milhas  
 
-🔗 [Ver código](#)
+🔗 [Ver código](https://github.com/Juuh07/Java-IFRS/raw/refs/heads/main/Ex10.java)
 
 ---
 
@@ -92,7 +92,7 @@ Receba o ano de nascimento e o ano atual, e mostre a idade:
 - em dias (1 ano = 365 dias)  
 - em semanas (1 ano = 52 semanas)  
 
-🔗 [Ver código](#)
+🔗 [Ver código](https://github.com/Juuh07/Java-IFRS/raw/refs/heads/main/Ex11.java)
 
 ---
 
@@ -102,7 +102,7 @@ Receba o preço de fábrica, percentual de lucro e impostos, e mostre:
 - valor dos impostos  
 - preço final  
 
-🔗 [Ver código](#)
+🔗 [Ver código](https://github.com/Juuh07/Java-IFRS/raw/refs/heads/main/Ex12.java)
 
 ---
 
@@ -113,7 +113,7 @@ Calcule o salário com base nas regras:
 - imposto = 3% do bruto  
 - salário final = bruto - imposto  
 
-🔗 [Ver código](#)
+🔗 [Ver código](https://github.com/Juuh07/Java-IFRS/raw/refs/heads/main/Ex13.java)
 
 ---
 
@@ -123,14 +123,14 @@ Sabendo que 1 kW custa 1/5 do salário mínimo, calcule:
 - valor total a pagar  
 - valor com desconto de 15%  
 
-🔗 [Ver código](#)
+🔗 [Ver código](https://github.com/Juuh07/Java-IFRS/raw/refs/heads/main/Ex14.java)
 
 ---
 
 ### 15. Conversão de Celsius para Fahrenheit 🌡️  
 Receba uma temperatura em Celsius e mostre em Fahrenheit usando a fórmula:  
 **F = (C × 9 / 5) + 32**  
-🔗 [Ver código](#)
+🔗 [Ver código](https://github.com/Juuh07/Java-IFRS/raw/refs/heads/main/Ex15.java)
 
 ---
 
