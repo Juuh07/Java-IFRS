@@ -1,15 +1,9 @@
 <div align="center">
 
-# ☕ Introdução à Programação em Java  
-📝 *Lista de Exercícios Básicos*
+# Introdução à Programação
+ *Este repositório contém exercícios introdutórios de programação em **Java***
 
 </div>
-
----
-
-## 📚 Sobre
-
-Este repositório contém exercícios introdutórios de programação em **Java**, abordando conceitos fundamentais como variáveis, operadores, entrada e saída de dados e cálculos simples.
 
 ---
 
